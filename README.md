@@ -1,2 +1,2 @@
 save as nursery
-xampp/mysql/data 
+in xampp/mysql/data 
